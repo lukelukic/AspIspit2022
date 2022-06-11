@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.Application\\AspIspit2022.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.Application\\AspIspit2022.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.Application\\AspIspit2022.Application.csproj",
+        "projectName": "AspIspit2022.Application",
+        "projectPath": "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.Application\\AspIspit2022.Application.csproj",
+        "packagesPath": "C:\\Users\\Luka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Luka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.DataAccess\\AspIspit2022.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.DataAccess\\AspIspit2022.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.DataAccess\\AspIspit2022.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.DataAccess\\AspIspit2022.DataAccess.csproj",
+        "projectName": "AspIspit2022.DataAccess",
+        "projectPath": "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.DataAccess\\AspIspit2022.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Luka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luka\\source\\repos\\AspIspit2022\\AspIspit2022.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Luka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

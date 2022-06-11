@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspIspit2022.Application\AspIspit2022.Application.csproj" />
+    <ProjectReference Include="..\AspIspit2022.DataAccess\AspIspit2022.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

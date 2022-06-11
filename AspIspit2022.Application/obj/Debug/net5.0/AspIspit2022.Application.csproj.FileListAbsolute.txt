@@ -1,0 +1,15 @@
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\bin\Debug\net5.0\AspIspit2022.Application.deps.json
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\bin\Debug\net5.0\AspIspit2022.Application.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\bin\Debug\net5.0\AspIspit2022.Application.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.AssemblyInfo.cs
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\refint\AspIspit2022.Application.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\ref\AspIspit2022.Application.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\bin\Debug\net5.0\AspIspit2022.DataAccess.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\bin\Debug\net5.0\AspIspit2022.DataAccess.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Application\obj\Debug\net5.0\AspIspit2022.Application.csproj.CopyComplete

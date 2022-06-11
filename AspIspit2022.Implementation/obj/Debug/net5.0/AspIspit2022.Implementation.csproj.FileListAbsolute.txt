@@ -1,0 +1,17 @@
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\bin\Debug\net5.0\AspIspit2022.Implementation.deps.json
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\bin\Debug\net5.0\AspIspit2022.Implementation.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\bin\Debug\net5.0\AspIspit2022.Implementation.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.AssemblyInfo.cs
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\refint\AspIspit2022.Implementation.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\ref\AspIspit2022.Implementation.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\bin\Debug\net5.0\AspIspit2022.Application.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\bin\Debug\net5.0\AspIspit2022.DataAccess.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\bin\Debug\net5.0\AspIspit2022.Application.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\bin\Debug\net5.0\AspIspit2022.DataAccess.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.Implementation\obj\Debug\net5.0\AspIspit2022.Implementation.csproj.CopyComplete

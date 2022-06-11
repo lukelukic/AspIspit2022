@@ -1,0 +1,15 @@
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\bin\Debug\net5.0\AspIspit2022.DataAccess.deps.json
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\bin\Debug\net5.0\AspIspit2022.DataAccess.runtimeconfig.json
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\bin\Debug\net5.0\AspIspit2022.DataAccess.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\bin\Debug\net5.0\AspIspit2022.DataAccess.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\bin\Debug\net5.0\AspIspit2022.DataAccess.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.AssemblyInfo.cs
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\refint\AspIspit2022.DataAccess.dll
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.pdb
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\AspIspit2022.DataAccess.genruntimeconfig.cache
+C:\Users\Luka\source\repos\AspIspit2022\AspIspit2022.DataAccess\obj\Debug\net5.0\ref\AspIspit2022.DataAccess.dll
